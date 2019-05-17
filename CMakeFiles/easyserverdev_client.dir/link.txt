@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/easyserverdev_client.dir/main.cpp.o CMakeFiles/easyserverdev_client.dir/server1.cpp.o CMakeFiles/easyserverdev_client.dir/client1.cpp.o  -o easyserverdev_client 
