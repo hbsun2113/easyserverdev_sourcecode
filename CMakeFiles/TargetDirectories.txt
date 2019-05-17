@@ -1,3 +1,0 @@
-/home/hbsun/easyserverdev/CMakeFiles/edit_cache.dir
-/home/hbsun/easyserverdev/CMakeFiles/rebuild_cache.dir
-/home/hbsun/easyserverdev/CMakeFiles/main.cpp.dir

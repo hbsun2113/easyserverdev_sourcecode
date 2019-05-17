@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/main.cpp.dir/server3.cpp.o CMakeFiles/main.cpp.dir/client3_2.cpp.o  -o main.cpp 
